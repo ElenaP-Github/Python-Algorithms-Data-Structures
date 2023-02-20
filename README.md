@@ -1,6 +1,6 @@
 # Python-Algorithms-Data-Structures
 
-My first serious contact with Algorithms and data structures:
+ Algorithms and data structures:
 
 [Python 3: Project-based Python, Algorithms, Data Structures
      Learn programming with Python 3; visualize Algorithms and Data Structures and implement them in projects with Python
